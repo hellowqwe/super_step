@@ -1,0 +1,53 @@
+[
+  {
+    "id": "03679d26-07bd-4f00-8bae-c8f3e48c0fdf",
+    "title": "i want to make an ml model ready",
+    "completed": false,
+    "created_at": "2025-08-20T13:29:25.645420",
+    "children": [
+      {
+        "id": "a54d43c9-9e51-4ade-8199-1b50e13f38b8",
+        "title": "Collect and preprocess the data to prepare it for training.",
+        "completed": false,
+        "created_at": "2025-08-20T13:29:41.294840",
+        "children": []
+      },
+      {
+        "id": "1c847675-3f78-4b9a-87c6-f74ed3d0bceb",
+        "title": "Choose and train a suitable machine learning algorithm on the preprocessed data.",
+        "completed": false,
+        "created_at": "2025-08-20T13:29:41.294840",
+        "children": []
+      },
+      {
+        "id": "5f9d6fac-b155-4e33-a237-95df78106708",
+        "title": "Evaluate and fine-tune the trained model to ensure it is accurate and ready for deployment.",
+        "completed": false,
+        "created_at": "2025-08-20T13:29:41.294840",
+        "children": [
+          {
+            "id": "330f3650-e409-4212-afb1-48b861f52d5c",
+            "title": "Assess the trained model's performance using relevant metrics and evaluation criteria to identify areas for improvement.",
+            "completed": false,
+            "created_at": "2025-08-20T13:29:54.943802",
+            "children": []
+          },
+          {
+            "id": "22831558-74aa-4f6f-aa66-8d2bf5c060b7",
+            "title": "Fine-tune the model by adjusting parameters, experimenting with different algorithms, or incorporating additional data to enhance its accuracy.",
+            "completed": false,
+            "created_at": "2025-08-20T13:29:54.943802",
+            "children": []
+          },
+          {
+            "id": "28e11d89-fb43-4f4c-b44a-16f80998949a",
+            "title": "Conduct thorough testing and validation to confirm the model's reliability and accuracy, ensuring it meets the required standards for deployment.",
+            "completed": false,
+            "created_at": "2025-08-20T13:29:54.943802",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
